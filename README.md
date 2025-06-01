@@ -1,4 +1,6 @@
-# reaper-reajs-jsfx
+# Reaper Global Playlist Counter
+
+This is a custom script that vastly improves using reaper for live playback. It's a playlist changer that prevents you from accidentially restarting your set, while allowing full control. It basically is a wrapper for the existing reaper playback functionality that makes it far more human to use in a live scenario and prevents mistakes.
 
 Add the lua files to ..AppData\Roaming\REAPER\Scripts
 Add the js files to ..AppData\Roaming\REAPER\Effects
